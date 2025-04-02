@@ -1,2 +1,4 @@
 # pgmodeler-bin
-The https://pgmodeler.io/ binaries for windows
+The [pgmodeler](https://pgmodeler.io/) binaries for windows.
+
+The original repo: https://github.com/pgmodeler/pgmodeler
